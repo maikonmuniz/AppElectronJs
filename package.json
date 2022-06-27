@@ -1,0 +1,24 @@
+{
+  "name": "appelectronjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikonmuniz/AppElectronJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maikonmuniz/AppElectronJs/issues"
+  },
+  "homepage": "https://github.com/maikonmuniz/AppElectronJs#readme",
+  "dependencies": {
+    "electron": "^6.1.12",
+    "mysql": "^2.18.1"
+  }
+}
